@@ -6,4 +6,4 @@ class hello {
         int d=a+b+c;
         System.out.println(d);
     }
-}
+}                              
